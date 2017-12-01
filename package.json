@@ -1,0 +1,14 @@
+{
+  "name": "alexa_2b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lone112@hotmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.22"
+  }
+}
